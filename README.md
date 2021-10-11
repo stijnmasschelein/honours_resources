@@ -36,7 +36,7 @@
 
 ### Units
 
-Typically, you will do 3 units in the first semesters and 1 unit in the second ssemester.
+Typically, you will do 3 units in the first semester and 1 unit in the second semester.
 
 - [FINA4590 Research Methods in Accounting and Finance.](https://handbooks.uwa.edu.au/unitdetails?code=FINA4590) This unit is mandatory.
 - [FINA4481	Advanced Investments](https://handbooks.uwa.edu.au/unitdetails?code=FINA4481)
