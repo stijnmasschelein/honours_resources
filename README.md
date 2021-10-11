@@ -17,9 +17,9 @@
 - [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
 - [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 1/11/2021. Focuses on Business Ethics.
 - [Hacket Foundation Alumni Honours Scholarship: AUD 5,000](https://www.uwa.edu.au/study/scholarship-listing/hackett-foundation-alumni-honours-scholarship-f513051) Deadline: 1/11/2021
-- [C. A Vargovic Memorial Honours Scholarship](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261: AUD 10,000) Deadline: 1/11/2021. Focuses on macroenomics.
+- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 1/11/2021. Focuses on macroenomics.
 - [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 1/11/2021
-- [Indigenous Commonwealth Education Costs Scholarship](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301: AUD 12,000)
+- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 1/11/2021
 - [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2022. For research relevant to APRA and  the Reserve Bank of Australia. 
 - <details> <summary> Closed scholarships, might become relevant later </summary>
 
