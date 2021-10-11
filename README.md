@@ -8,6 +8,26 @@
 
 ## Application Procedure Finance
 
+- Applications are processed early January. 
+- First round of offers mid January.
+- Second round of offers late January.
+
+## Scholarships
+
+- [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
+- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 1/11/2021. Focuses on Business Ethics.
+- [Hacket Foundation Alumni Honours Scholarship: AUD 5,000](https://www.uwa.edu.au/study/scholarship-listing/hackett-foundation-alumni-honours-scholarship-f513051) Deadline: 1/11/2021
+- [C. A Vargovic Memorial Honours Scholarship](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261: AUD 10,000) Deadline: 1/11/2021. Focuses on macroenomics.
+- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 1/11/2021
+- [Indigenous Commonwealth Education Costs Scholarship](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301: AUD 12,000)
+- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2022. For research relevant to APRA and  the Reserve Bank of Australia. 
+- <details> <summary> Closed scholarships, might become relevant later </summary>
+
+
+    + [Jean Rogerson Honours Scholarship in the UWA Business School](https://www.uwa.edu.au/study/scholarship-listing/jean-rogerson-honours-scholarship-in-the-uwa-business-school-f513311) (Also open to international students)
+
+</details>
+
 ## The Honours Year 
 
 ### [Supervisors](https://research-repository.uwa.edu.au/en/organisations/accounting-and-finance/persons/)
@@ -115,3 +135,4 @@ Schedule a meeting with Stijn Masschelein
 
 - [Friday meeting](https://friday-meetings.youcanbook.me/)
 - Email for short questions or schedule meeting on another day.
+- Email me if there are any mistakes or dead links. I will update as quickly as possible. 
