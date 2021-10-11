@@ -49,6 +49,11 @@ Typically, you will do 3 units in the first semester and 1 unit in the second se
 
 The thesis counts towards 4 units which means it counts towards 50% of the mark for the honours year. 
 
+## Prizes
+
+- [Emeritus Professor Izan Prize in FINA4590 Research Methods in Accounting and Finance: AUD 1,000](https://apps.weboffice.uwa.edu.au/prizes-app/file/Emeritus%20Professor%20Izan%20Prize%20in%20FINA4590%20Research%20Methods%20in%20Accounting%20and%20Finance%20[F53717].RTF)
+- [Philip Brown Scholar for the top Honours student in Finance and Accounting](https://www.student.uwa.edu.au/faculties/faculty-of-arts,-business,-law-and-education/business-students/prizes/philip-brown-scholar)
+
 ## Topics 2021
 
 ### Proposed by Accounting Supervisors
