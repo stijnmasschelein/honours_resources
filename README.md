@@ -4,6 +4,7 @@
 ## Application 
 
 - [Application Process](https://www.uwa.edu.au/study/how-to-apply/honours)
+- The deadline is 1 January 2023 for Finance and 13 February for Accounting
 - The minimum requirement is a WAM > 75% for three third year Finance (Accounting) units.
 
 ## Application Procedure Finance
@@ -15,30 +16,29 @@
 ## Scholarships
 
 - [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
-- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 1/11/2021. Focuses on Business Ethics.
-- [Hacket Foundation Alumni Honours Scholarship: AUD 5,000](https://www.uwa.edu.au/study/scholarship-listing/hackett-foundation-alumni-honours-scholarship-f513051) Deadline: 1/11/2021
-- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 1/11/2021. Focuses on macroenomics.
-- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 1/11/2021
-- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 1/11/2021
-- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2022. For research relevant to APRA and  the Reserve Bank of Australia. 
-- <details> <summary> Closed scholarships, might become relevant later </summary>
+- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 4/11/2022. Focuses on Business Ethics.
+- [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 4/11/2022
+- [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022
+- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 4/11/2022
+- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 4/11/2022. Focuses on macroenomics.
+- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 4/11/2022
+- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 4/11/2022
+- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 4/11/2022
+- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2023. For research relevant to APRA and  the Reserve Bank of Australia. 
 
-
-    + [Jean Rogerson Honours Scholarship in the UWA Business School](https://www.uwa.edu.au/study/scholarship-listing/jean-rogerson-honours-scholarship-in-the-uwa-business-school-f513311) (Also open to international students)
-
-</details>
+There might be more. Click on the first link. The UWA website has a pretty good search system in place.
 
 ## The Honours Year 
 
 ### [Supervisors](https://research-repository.uwa.edu.au/en/organisations/accounting-and-finance/persons/)
 
-### [Potential Topics](#topics-2021)
+### [Potential Topics](#topics)
 
 ### Units
 
 Typically, you will do 3 units in the first semester and 1 unit in the second semester.
 
-- [FINA4590 Research Methods in Accounting and Finance.](https://handbooks.uwa.edu.au/unitdetails?code=FINA4590) This unit is mandatory.
+- [FINA4590 Research Methods in Accounting and Finance.](https://handbooks.uwa.edu.au/unitdetails?code=FINA4590) This unit is mandatory for everyone.
 - [FINA4481	Advanced Investments](https://handbooks.uwa.edu.au/unitdetails?code=FINA4481)
 - [FINA4491 Capital Markets Research](https://handbooks.uwa.edu.au/unitdetails?code=FINA4491)
 - [ACCT4471 Advanced Accounting Research](https://handbooks.uwa.edu.au/unitdetails?code=ACCT4471) Mandatory for Accounting
@@ -52,12 +52,25 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 ## Prizes
 
 - [Emeritus Professor Izan Prize in FINA4590 Research Methods in Accounting and Finance: AUD 1,000](https://apps.weboffice.uwa.edu.au/prizes-app/file/Emeritus%20Professor%20Izan%20Prize%20in%20FINA4590%20Research%20Methods%20in%20Accounting%20and%20Finance%20[F53717].RTF)
-- [Philip Brown Scholar for the top Honours student in Finance and Accounting](https://www.student.uwa.edu.au/faculties/faculty-of-arts,-business,-law-and-education/business-students/prizes/philip-brown-scholar)
 
-## Topics 2021
+<comment>
+- [Philip Brown Scholar for the top Honours student in Finance and Accounting](https://www.student.uwa.edu.au/faculties/faculty-of-arts,-business,-law-and-education/business-students/prizes/philip-brown-scholar)
+</comment>
+
+## Topics 
 
 ### Proposed by Accounting Supervisors
-<details> <summary> Click for a list of topics </summary>
+
+
+<details> <summary> Click for a list of topics proposed in 2022</summary>
+- Disappearing executives in Russia and China
+- Applications of Modern Data Science Techniques to Accounting and Finance Research
+- Cost Indexation In Human Services
+- International Nonprofit Accounting Standards: Prospects for Success	
+- Modern slavery risks and practices in operations and supply chains
+</details>
+
+<details> <summary> Click for a list of topics proposed in 2021</summary>
 
 - Disappearing executives
 - Performance Measurement and Autonomy of Manufacturing Workers (Accounting) 
@@ -84,7 +97,28 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ### Proposed by Finance Supervisors
 
-<details> <summary> Click for a list of topics </summary>
+<details> <summary> Click for a list of topics proposed in 2022</summary>
+- An analysis of the global market for carbon credits. Are they traded? Where are they traded? At what price? Are they more expensive in some countries than in others? Trends? 
+- Do investors care about sustainability reports and ESG? Evidence from the gold mining sector
+- Wealth inequality and the stock market – How is market capitalization inequality linked to wealth    inequality?
+- Why invest in mining? An analysis of mining shares versus the underlying commodity
+- Nicholas Taleb versus Harry Markowitz – A critical assessment of two very different views
+- Impact of uncertainty on international yield curves / interest rate volatility
+- Are futures markets more volatile when traders hold extreme positions?
+- Efficiency of (sports or political) betting markets
+- Don’t cite Wikipedia! Should we use information from Wikipedia in financial markets?
+- Market risk, credit risk and financial distress
+- Market volatility spillovers and the role of geopolitics
+- Financial development, financial inclusion, and inclusive economic growth in emerging markets
+- Retirement Savings and COVID: Thai Experience
+- Financial literacy 
+- Suppliers’ climate risks and how managers react to this risk
+- Dividend peer effect
+- Does ESG rating predict a firm’s future ESG investments and performance, and 
+- How does rater disagreement affect corporate decisions on future ESG investments.
+</details> 
+
+<details> <summary> Click for a list of topics proposed in 2021 </summary>
 
 - Decarbonization and transition to net zero in the mining sector  
 - Decarbonization and transition to net zero in the gold mining sector 
@@ -118,7 +152,11 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ### Student topics
 
-<details> <summary> Click for a list of topics </summary>
+<details> <summary> Click for a list of topics of 2022 Students </summary>
+
+</details>
+
+<details> <summary> Click for a list of topics of 2021 Students </summary>
 
 - Does FOMO (fear of missing out) moderate consumers’ propensity to take financial risks?
 - The implications of direct access technology on investor sentiment and attention 
