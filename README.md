@@ -149,6 +149,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 ### Student topics
 
 <details> <summary> Click for a list of topics of 2022 Students </summary>
+
 - Peer Effect on Green Bond Issuance
 - The impact of dividend change announcements - information transmission and peer effects
 - The effect of geopolitical risk on the volatility of futures markets
@@ -159,6 +160,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 - Inflation and You: The use of multi-class portfolios to hedge inflation risk
 - Benefits and Drawbacks of DeFI for consumers
 - Understanding Cryptoassets through Valuation Models
+
 </details>
 
 <details> <summary> Click for a list of topics of 2021 Students </summary>
