@@ -53,10 +53,6 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 - [Emeritus Professor Izan Prize in FINA4590 Research Methods in Accounting and Finance: AUD 1,000](https://apps.weboffice.uwa.edu.au/prizes-app/file/Emeritus%20Professor%20Izan%20Prize%20in%20FINA4590%20Research%20Methods%20in%20Accounting%20and%20Finance%20[F53717].RTF)
 
-<comment>
-- [Philip Brown Scholar for the top Honours student in Finance and Accounting](https://www.student.uwa.edu.au/faculties/faculty-of-arts,-business,-law-and-education/business-students/prizes/philip-brown-scholar)
-</comment>
-
 ## Topics 
 
 ### Proposed by Accounting Supervisors
@@ -153,7 +149,16 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 ### Student topics
 
 <details> <summary> Click for a list of topics of 2022 Students </summary>
-
+- Peer Effect on Green Bond Issuance
+- The impact of dividend change announcements - information transmission and peer effects
+- The effect of geopolitical risk on the volatility of futures markets
+- Economic Policy Uncertainty and the Yield Curve
+- Modern Slavery and Cross-Border Mergers and Acquisitions
+- Founders' gender diversity and information quality: Evidence from reward crowdfunding projects
+- Managing Climate Change: The link between mandatory emissions disclosure and use of executive environmental incentives
+- Inflation and You: The use of multi-class portfolios to hedge inflation risk
+- Benefits and Drawbacks of DeFI for consumers
+- Understanding Cryptoassets through Valuation Models
 </details>
 
 <details> <summary> Click for a list of topics of 2021 Students </summary>
