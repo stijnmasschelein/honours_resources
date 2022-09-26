@@ -59,11 +59,13 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 
 <details> <summary> Click for a list of topics proposed in 2022</summary>
+
 - Disappearing executives in Russia and China
 - Applications of Modern Data Science Techniques to Accounting and Finance Research
 - Cost Indexation In Human Services
 - International Nonprofit Accounting Standards: Prospects for Success	
 - Modern slavery risks and practices in operations and supply chains
+
 </details>
 
 <details> <summary> Click for a list of topics proposed in 2021</summary>
@@ -94,6 +96,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 ### Proposed by Finance Supervisors
 
 <details> <summary> Click for a list of topics proposed in 2022</summary>
+
 - An analysis of the global market for carbon credits. Are they traded? Where are they traded? At what price? Are they more expensive in some countries than in others? Trends? 
 - Do investors care about sustainability reports and ESG? Evidence from the gold mining sector
 - Wealth inequality and the stock market – How is market capitalization inequality linked to wealth    inequality?
@@ -112,6 +115,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 - Dividend peer effect
 - Does ESG rating predict a firm’s future ESG investments and performance, and 
 - How does rater disagreement affect corporate decisions on future ESG investments.
+
 </details> 
 
 <details> <summary> Click for a list of topics proposed in 2021 </summary>
