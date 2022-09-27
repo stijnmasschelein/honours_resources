@@ -16,6 +16,7 @@
 ## Scholarships
 
 - [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
+- [Digital Finance CRC - UWA Branch](https://www.uwabcrc.com/) Blockchain applications in Australian Banking and Mining Sector. More information will be released later.
 - [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 4/11/2022. Focuses on Business Ethics.
 - [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 4/11/2022
 - [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022
