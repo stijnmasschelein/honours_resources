@@ -4,7 +4,7 @@
 ## Application
 
 - [Application Process](https://www.uwa.edu.au/study/how-to-apply/honours)
-- The deadline is 1 January 2023 for Finance and 13 February for Accounting
+- The deadline is 1 January 2024 for Finance and 13 February for Accounting
 - The minimum requirement is a WAM > 75% for three third year Finance (Accounting) units.
 
 ## Application Procedure Finance
