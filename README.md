@@ -1,7 +1,7 @@
 # Honours in Accounting and Finance 
  A collection of links to resources for honours students
 
-## Application 
+## Application
 
 - [Application Process](https://www.uwa.edu.au/study/how-to-apply/honours)
 - The deadline is 1 January 2023 for Finance and 13 February for Accounting
@@ -17,15 +17,15 @@
 
 - [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
 - [Digital Finance CRC - UWA Branch](https://www.uwabcrc.com/) Blockchain applications in Australian Banking and Mining Sector. More information will be released later.
-- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 4/11/2022. Focuses on Business Ethics.
-- [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 4/11/2022
-- [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022
-- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 4/11/2022
-- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 4/11/2022. Focuses on macroenomics.
-- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 4/11/2022
-- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 4/11/2022
-- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 4/11/2022
-- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2023. For research relevant to APRA and  the Reserve Bank of Australia. 
+- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 6/11/2023. Focuses on Business Ethics.
+- [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 6/11/2023
+<!-- - [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022 -->
+- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 6/11/2025
+- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 6/11/2022. Focuses on macroenomics.
+- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 6/11/2022
+- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 6/11/2022
+- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 6/11/2022
+- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2024. For research relevant to APRA and the Reserve Bank of Australia. 
 
 There might be more. Click on the first link. The UWA website has a pretty good search system in place.
 
@@ -58,6 +58,12 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ### Proposed by Accounting Supervisors
 
+<details> <summary> Click for a list of topics proposed in 2023</summary>
+
+- Quality of Australian Charities’ Financial Reports
+- Financial Fraud and Disappearing Executives
+
+</details>
 
 <details> <summary> Click for a list of topics proposed in 2022</summary>
 
@@ -95,6 +101,19 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 </details>
 
 ### Proposed by Finance Supervisors
+
+<details>
+<summary> Click for a list of topics proposed in 2023</summary>
+
+- Anticipatory Delisting and Strategic Announcements
+- Hidden correlations caused by algorithms and whether they are exploitable
+- To Crash or Not to Crash: An empirical study on four measurements of crash risk
+- Deriving Chinese political sentiment from diverse media sources
+- Climate risk exposure across the supply chain
+- Company CEO’s foreign experience and corporate misconduct
+- 
+
+</details>
 
 <details> <summary> Click for a list of topics proposed in 2022</summary>
 
@@ -153,6 +172,20 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ### Student topics
 
+<details> <summary> Click for a list of topics of 2023 Students </summary>
+
+- Does Retail Attention Drive Corporate Climate Change Awareness
+- Do Investors Care About ESG? Evidence From the Mining Industry
+- Abnormal Temperature Changes, Investor Concern for Climate Change, and Information Acquisition Behaviour
+- Web3 as a Catalyst for Decentralized Finance Lending and Borrowing Sector: A Comparative Analysis of Centralized and Decentralized Finance
+- The Impact of Cyberattacks on Corporate Disclosure
+- Does the Asymmetric Relationship between Market Returns and Liquidity Hold in Decentralized Finance
+- Regulation by Size: Avoiding Under- and Over-regulation in Australian Charities' Financial Reporting
+- The drivers and consequences of spin-offs
+- Market Sentiment and CEO pay cuts
+
+</details>
+
 <details> <summary> Click for a list of topics of 2022 Students </summary>
 
 - Peer Effect on Green Bond Issuance
@@ -186,8 +219,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ## Further questions
 
-Schedule a meeting with Stijn Masschelein
+Schedule a meeting with [Stijn Masschelein](mailto:stijn.masschelein@uwa.edu.au) or [Rui Zhong](mailto:rui.zhong@uwa.edu.au)
 
-- [Friday meeting](https://friday-meetings.youcanbook.me/)
 - Email for short questions or schedule meeting on another day.
 - Email me if there are any mistakes or dead links. I will update as quickly as possible. 
