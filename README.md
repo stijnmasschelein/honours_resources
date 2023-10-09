@@ -20,11 +20,11 @@
 - [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 6/11/2023. Focuses on Business Ethics.
 - [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 6/11/2023
 <!-- - [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022 -->
-- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 6/11/2025
+- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 6/11/2023
 - [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 6/11/2022. Focuses on macroenomics.
-- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 6/11/2022
-- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 6/11/2022
-- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 6/11/2022
+- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 6/11/2023
+- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 6/11/2023
+- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 6/11/2023
 - [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2024. For research relevant to APRA and the Reserve Bank of Australia. 
 
 There might be more. Click on the first link. The UWA website has a pretty good search system in place.
@@ -111,7 +111,6 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 - Deriving Chinese political sentiment from diverse media sources
 - Climate risk exposure across the supply chain
 - Company CEO’s foreign experience and corporate misconduct
-- 
 
 </details>
 
