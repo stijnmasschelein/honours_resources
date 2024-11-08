@@ -4,7 +4,7 @@
 ## Application
 
 - [Application Process](https://www.uwa.edu.au/study/how-to-apply/honours)
-- The deadline is 1 January 2024 for Finance and 13 February for Accounting
+- The deadline is 9 December 2024 for Finance and 13 February for Accounting
 - The minimum requirement is a WAM > 75% for three third year Finance (Accounting) units.
 
 ## Application Procedure Finance
@@ -15,17 +15,17 @@
 
 ## Scholarships
 
-- [Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore)
-- [Digital Finance CRC - UWA Branch](https://www.uwabcrc.com/) Blockchain applications in Australian Banking and Mining Sector. More information will be released later.
-- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Deadline: 6/11/2023. Focuses on Business Ethics.
-- [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) Deadline: 6/11/2023
-<!-- - [J. Willinge Regional and Remote Scholarship AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-regional-and-remote-scholarship-f513491) Deadline: 4/11/2022 -->
-- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) Deadline: 6/11/2023
-- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: 6/11/2022. Focuses on macroenomics.
-- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) Deadline: 6/11/2023
-- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301) Deadline: 6/11/2023
-- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691) Deadline: 6/11/2023
-- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): Deadline: April 2024. For research relevant to APRA and the Reserve Bank of Australia. 
+[Look for all possibilities here](https://www.uwa.edu.au/study/scholarships/explore). Unfortuntely, most of the applications have a deadline in *early November*  
+
+- [Digital Finance CRC - UWA Branch](https://dfcrc.com.au/honours/)
+- [Stan and Jean Perron Honours Scholarship in Business AUD 15,000](https://www.uwa.edu.au/study/scholarship-listing/stan-and-jean-perron-honours-scholarship-f514241) Focuses on Business Ethics.
+- [J. Willinge Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/j-willinge-scholarship-in-the-uwa-business-school-f555791) 
+- [Brian T. Dolan Scholarship in the UWA Business School AUD 10,000](https://www.uwa.edu.au/study/Scholarship-Listing/brian-t-dolan-scholarship-in-the-uwa-business-school-f513282) 
+- [C. A Vargovic Memorial Honours Scholarship: AUD 10,000](https://www.uwa.edu.au/study/scholarship-listing/c-a-vargovic-memorial-honours-scholarship-f512261) Deadline: Focuses on macroenomics.
+- [Indigenous Commonwealth Accommodation Scholarship: AUD 20,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-accommodation-scholarship-f525291) 
+- [Indigenous Commonwealth Education Costs Scholarship: AUD 12,000](https://www.uwa.edu.au/study/scholarship-listing/indigenous-commonwealth-education-costs-scholarship-f525301)
+- [Destination Australia Scholarship](https://www.uwa.edu.au/study/Scholarship-Listing/destination-australia-honours-scholarship-f2012691)
+- [Bryan Gray Scholarship Program: AUD 15,000](https://www.apra.gov.au/brian-gray-scholarship-program): For research relevant to APRA and the Reserve Bank of Australia. The deadline is likely to be April.
 
 There might be more. Click on the first link. The UWA website has a pretty good search system in place.
 
@@ -39,7 +39,7 @@ There might be more. Click on the first link. The UWA website has a pretty good 
 
 Typically, you will do 3 units in the first semester and 1 unit in the second semester.
 
-- [FINA4590 Research Methods in Accounting and Finance.](https://handbooks.uwa.edu.au/unitdetails?code=FINA4590) This unit is mandatory for everyone.
+- [FINA4590 Research Methods in Accounting and Finance.](https://handbooks.uwa.edu.au/unitdetails?code=FINA4590) This unit is mandatory for everyone. The lecture materials and coding examples can be found [here](https://stijn-masschelein.netlify.app/teaching/method_package.html)
 - [FINA4481	Advanced Investments](https://handbooks.uwa.edu.au/unitdetails?code=FINA4481)
 - [FINA4491 Capital Markets Research](https://handbooks.uwa.edu.au/unitdetails?code=FINA4491)
 - [ACCT4471 Advanced Accounting Research](https://handbooks.uwa.edu.au/unitdetails?code=ACCT4471) Mandatory for Accounting
@@ -171,6 +171,14 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ### Student topics
 
+<details> <summary> Click for a list of topics of 2024 Students </summary>
+- Do the Ends Justify the Means: Can Mentioning Decarbonization Technology Help Australian Mining Companies Raise Capital?
+- Decentralisation Dynamics: Exploring Decision Inter-dependencies and Optimal Decision Frontiers within Firms 
+- Navigating Delisting Risk: The Role of Earnings Management in U.S. Stock Markets 
+- The Impact of Short-Selling Restrictions on Market Liquidity; An Analysis of the Self-Regulated Australian Market
+- Real Estate Tokenisation: Benefits, Limitations and Market Dynamics
+</details>
+
 <details> <summary> Click for a list of topics of 2023 Students </summary>
 
 - Does Retail Attention Drive Corporate Climate Change Awareness
@@ -218,7 +226,7 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 
 ## Further questions
 
-Schedule a meeting with [Stijn Masschelein](mailto:stijn.masschelein@uwa.edu.au) or [Rui Zhong](mailto:rui.zhong@uwa.edu.au)
+Schedule a meeting with [Frank Liu](mailto:frank.liu@uwa.edu.au).
 
 - Email for short questions or schedule meeting on another day.
-- Email me if there are any mistakes or dead links. I will update as quickly as possible. 
+- Email me, [Stijn Masschelein](mailto:stijn.masschelein@uwa.edu.au), if there are any mistakes or dead links. I will update as quickly as possible. 
