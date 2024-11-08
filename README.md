@@ -172,11 +172,13 @@ The thesis counts towards 4 units which means it counts towards 50% of the mark 
 ### Student topics
 
 <details> <summary> Click for a list of topics of 2024 Students </summary>
+
 - Do the Ends Justify the Means: Can Mentioning Decarbonization Technology Help Australian Mining Companies Raise Capital?
 - Decentralisation Dynamics: Exploring Decision Inter-dependencies and Optimal Decision Frontiers within Firms 
 - Navigating Delisting Risk: The Role of Earnings Management in U.S. Stock Markets 
 - The Impact of Short-Selling Restrictions on Market Liquidity; An Analysis of the Self-Regulated Australian Market
 - Real Estate Tokenisation: Benefits, Limitations and Market Dynamics
+
 </details>
 
 <details> <summary> Click for a list of topics of 2023 Students </summary>
